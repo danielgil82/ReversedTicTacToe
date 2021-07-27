@@ -1,0 +1,13 @@
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.csprojAssemblyReference.cache
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.GameSettingsForm.resources
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.TicTacToe.resources
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.Properties.Resources.resources
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.csproj.GenerateResource.cache
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\bin\Debug\ReverseTicTacToe.exe
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\bin\Debug\ReverseTicTacToe.pdb
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\bin\Debug\LogicImplementation.dll
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\bin\Debug\LogicImplementation.pdb
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.csproj.CopyComplete
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.exe
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\ReverseTicTacToe\obj\Debug\ReverseTicTacToe.pdb

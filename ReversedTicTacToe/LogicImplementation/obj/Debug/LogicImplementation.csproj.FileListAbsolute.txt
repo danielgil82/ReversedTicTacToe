@@ -1,0 +1,6 @@
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\LogicImplementation\bin\Debug\LogicImplementation.dll
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\LogicImplementation\bin\Debug\LogicImplementation.pdb
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\LogicImplementation\obj\Debug\LogicImplementation.csprojAssemblyReference.cache
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\LogicImplementation\obj\Debug\LogicImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\LogicImplementation\obj\Debug\LogicImplementation.dll
+C:\Users\Daniel\GitProjects\TicTacToe\ReversedTicTacToe\LogicImplementation\obj\Debug\LogicImplementation.pdb
